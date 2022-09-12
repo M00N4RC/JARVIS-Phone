@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 750);
+  createCanvas(750, 1500);
   angleMode(DEGREES); //set the angle/value of the desired shape to degrees
 }
 
